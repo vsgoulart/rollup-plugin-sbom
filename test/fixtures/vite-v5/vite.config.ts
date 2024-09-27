@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import sbom from 'rollup-plugin-sbom';
+import sbom from '@vzeta/rollup-plugin-sbom';
 
 // https://vitejs.dev/config/
 export default defineConfig({

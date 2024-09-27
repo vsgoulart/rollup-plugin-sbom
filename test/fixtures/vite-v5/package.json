@@ -24,6 +24,6 @@
     "eslint-plugin-react-refresh": "^0.4.4",
     "typescript": "^5.2.2",
     "vite": "^5.0.0",
-    "rollup-plugin-sbom": "workspace:*"
+    "@vzeta/rollup-plugin-sbom": "workspace:*"
   }
 }

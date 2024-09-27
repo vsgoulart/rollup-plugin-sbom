@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "rollup-plugin-sbom",
+  "name": "@vzeta/rollup-plugin-sbom",
   "version": "1.0.0",
   "description": "A rollup and vite plugin to generate SBOMs for your application",
   "packageManager": "pnpm@9.0.1",
